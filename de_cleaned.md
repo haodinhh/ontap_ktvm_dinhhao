@@ -361,9 +361,9 @@
 - [ ] d. Đầu tư của Chính phủ.
 
 **Câu 61:** Đồng nhất thức nào sau đây là đúng:
-- [ ] a. $Y = C + I + G + IM - X$ (Sai dấu, phải là $X - IM$).
-- [ ] b. $T + G + X \equiv S + I + IM$ (Sai, phải là $S + T + IM \equiv I + G + X$).
-- [ ] c. $Y \equiv C + S + I$ (Sai).
+- [ ] a. $Y = C + I + G + IM - X$.
+- [ ] b. $T + G + X \equiv S + I + IM$
+- [ ] c. $Y \equiv C + S + I$.
 - [x] **d. $Y \equiv C + T + S$** (Thu nhập được phân bổ cho Tiêu dùng, Thuế và Tiết kiệm). 
 
 **Câu 62:** Khi tiền được sử dụng để trả nợ, nó thực hiện chức năng:
